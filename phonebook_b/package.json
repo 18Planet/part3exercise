@@ -1,7 +1,6 @@
 {
-  "name": "phonebook",
+  "name": "phonebook_b",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,5 +14,11 @@
     "express": "^4.21.0",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "part3exercise"
+  },
+  "description": ""
 }
